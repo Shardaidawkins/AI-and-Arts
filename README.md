@@ -1,4 +1,4 @@
-#Creative Making: Art and Artificial Intelligence
+# Creative Making: Art and Artificial Intelligence
 
 <p> Project 1 - Critical response to media that surrounds Artificial intelligence </p>
 
