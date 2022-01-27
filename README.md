@@ -6,7 +6,7 @@
 </p>
 
 
-## <p> Project 2 - AI Architecture,generative Design Modern Japanese architecture : 
+## <p> Project 2 - AI Architecture,generative design Modern Japanese architecture : 
 RunwayML generative images of modernist Japanese buildings
 </p>
   
