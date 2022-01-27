@@ -2,6 +2,6 @@
 
 ## <p> Project 1 - Critical response to media that surrounds Artificial intelligence </p>
 
-## <p> Project 2 - Design fiction - AI and mental health </p>
+## <p> Project 2 - AI Architecture, Generative Design Modern Japanese architecture
 
-## <p> Project 3 - RunwayML </p>
+## <p> Project 3 - Artificial Intelligence & The age of Misinformation </p>
